@@ -1,0 +1,2 @@
+# Enhancing-business-Intelligence-syatem-s-database-back-end
+Enhancing Business Intelligence system’s database helps the clients making strategic  decisions in their business regardless the direction of development for one particular bar or the network as a whole system. The purpose of the project was to provide auditing capabilities to existing database of Business Intelligence system and to provide the framework for alert feature that should notify management of important business events.
